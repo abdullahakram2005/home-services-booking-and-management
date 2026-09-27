@@ -1,2 +1,2 @@
 # home-services-booking-and-management
-a full stack web application that allow user to book home services. Customer can browse services, book appointment  and track their booking status.
+A full-stack web application for booking and managing home services such as AC repair, plumbing, electrical work, cleaning, and other household services. The system connects customers with service providers and includes booking, service management, and admin functionality.
